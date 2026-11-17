@@ -1,0 +1,739 @@
+Access key read: 
+Current Access key: 
+Service starting...
+Intializing Roblox Web Service
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, L’opération a réussi.
+
+Service Started on port 64989
+DataModel Loading rbxasset://local-map-c7f1684feddd4dd98ffac528802cfe12.rbxl
+Started network server 127.0.0.1|53640
+New connection from 127.0.0.1|62235
+
+ClassDescriptor failed to learn ReflectionMetadataClasses
+ClassDescriptor failed to learn ReflectionMetadataItem
+ClassDescriptor failed to learn ReflectionMetadataClass
+ClassDescriptor failed to learn ReflectionMetadataProperties
+ClassDescriptor failed to learn ReflectionMetadataFunctions
+ClassDescriptor failed to learn ReflectionMetadataYieldFunctions
+ClassDescriptor failed to learn ReflectionMetadataEvents
+ClassDescriptor failed to learn ReflectionMetadataCallbacks
+ClassDescriptor failed to learn ReflectionMetadataMember
+ClassDescriptor failed to learn ReflectionMetadataEnums
+ClassDescriptor failed to learn ReflectionMetadataEnum
+ClassDescriptor failed to learn ReflectionMetadataEnumItem
+ClassDescriptor failed to learn ReflectionMetadata
+ClassDescriptor failed to learn RenderSettings
+Type failed to learn AASamples
+Type failed to learn GraphicsMode
+Type failed to learn FramerateManagerMode
+Type failed to learn Antialiasing
+Type failed to learn QualityLevel
+Type failed to learn Resolution
+Player 1 added
+httpGet http://localhost./asset/?id=138029666 failed. Trying again. Error: HTTP 403 (Roblox asset 138029666 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=138029666 because HTTP 403 (Roblox asset 138029666 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 138029666 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.breathing : http://www.roblox.com/asset/?id=138029666
+httpGet http://localhost./asset/?id=131104992 failed. Trying again. Error: HTTP 403 (Roblox asset 131104992 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=131104992 because HTTP 403 (Roblox asset 131104992 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 131104992 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+Exception in place validation: https://localhost./universes/validate-place-join?originPlaceId=0&destinationPlaceId=1: WinHttpSendRequest failed, err=0x2EFD
+Error fetching MarketplaceService receipts
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, Descripteur non valide
+
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+httpGet http://localhost./asset/?id=131104992 failed. Trying again. Error: HTTP 403 (Roblox asset 131104992 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=131104992 because HTTP 403 (Roblox asset 131104992 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 131104992 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.Audio.WindAmbience : http://www.roblox.com/asset/?id=131104992
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.Backpack.AAccess key read: 
+Current Access key: 
+Service starting...
+Intializing Roblox Web Service
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, L’opération a réussi.
+
+Service Started on port 64989
+DataModel Loading rbxasset://local-map-15dce76cb24746e5b3deb47558bd63cd.rbxl
+httpGet http://localhost./asset/?id=1034065 failed. Trying again. Error: HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1077604 failed. Trying again. Error: HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1280470 failed. Trying again. Error: HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1077604 because HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=1280470 because HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=1034065 because HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.)
+httpGet http://localhost./asset/?id=2027611 failed. Trying again. Error: HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=2027611 because HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10185059 failed. Trying again. Error: HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=2303479 failed. Trying again. Error: HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10185059 because HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=2303479 because HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10224650 failed. Trying again. Error: HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10224650 because HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10184119 failed. Trying again. Error: HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10184119 because HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10224788 failed. Trying again. Error: HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1372259 failed. Trying again. Error: HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1372259 because HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10242175 failed. Trying again. Error: HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10184368 failed. Trying again. Error: HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10184368 because HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.)
+httpGet http://localhost./asset/?id=1372261 failed. Trying again. Error: HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1372261 because HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10181914 failed. Trying again. Error: HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10181914 because HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.)
+httpGet http://localhost./asset/?id=1014539&serverplaceid=1 failed. Trying again. Error: HTTP 403 (Roblox asset 1014539 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1014539&serverplaceid=1 because HTTP 403 (Roblox asset 1014539 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1014539 requires authorization or is restricted.)
+httpGet http://localhost./asset/?id=1014617&serverplaceid=1 failed. Trying again. Error: HTTP 403 (Roblox asset 1014617 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1014617&serverplaceid=1 because HTTP 403 (Roblox asset 1014617 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1014617 requires authorization or is restricted.)
+Failed to load source (http://www.roblox.com/asset/?id=1014539) for Lighting.ScarH.BrickCleanup. The LinkedSource name may have changed or been removed.
+Failed to load source (http://www.roblox.com/asset/?id=1014617) for Lighting.Clown Bomb.Local Gui. The LinkedSource name may have changed or been removed.
+httpGet http://localhost./asset/?id=2697431 failed. Trying again. Error: HTTP 403 (Roblox asset 2697431 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10242175 because HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=2697431 because HTTP 403 (Roblox asset 2697431 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2697431 requires authorization or is restricted.)
+Started network server 127.0.0.1|53640
+Tycoon Leaderboard running
+source doesnt exist, your command script may malfunction
+Welcome to VIP
+Welcome to VIP
+Badge Awarder Loaded. BadgeID: 180493584
+Badge Awarder Loaded. BadgeID: 180493584
+Badge Awarder Loaded. BadgeID: 180493584
+Badge Awarder Loaded. BadgeID: 180493584
+Badge Awarder Loaded. BadgeID: 180493584
+Badge Awarder Loaded. BadgeID: 180493584
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Lighting.ScarH.Handle.Fire : http://www.roblox.com/asset/?id=2697431
+Content failed for http://localhost./Asset/?id=10224788 because HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load StarterGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+New connection from 127.0.0.1|57589
+
+ClassDescriptor failed to learn ReflectionMetadataClasses
+ClassDescriptor failed to learn ReflectionMetadataItem
+ClassDescriptor failed to learn ReflectionMetadataClass
+ClassDescriptor failed to learn ReflectionMetadataProperties
+ClassDescriptor failed to learn ReflectionMetadataFunctions
+ClassDescriptor failed to learn ReflectionMetadataYieldFunctions
+ClassDescriptor failed to learn ReflectionMetadataEvents
+ClassDescriptor failed to learn ReflectionMetadataCallbacks
+ClassDescriptor failed to learn ReflectionMetadataMember
+ClassDescriptor failed to learn ReflectionMetadataEnums
+ClassDescriptor failed to learn ReflectionMetadataEnum
+ClassDescriptor failed to learn ReflectionMetadataEnumItem
+ClassDescriptor failed to learn ReflectionMetadata
+ClassDescriptor failed to learn RenderSettings
+Type failed to learn AASamples
+Type failed to learn GraphicsMode
+Type failed to learn FramerateManagerMode
+Type failed to learn Antialiasing
+Type failed to learn QualityLevel
+Type failed to learn Resolution
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+Player 1 added
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load e : http://www.roblox.com/asset/?id=1280470
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+Exception in place validation: https://localhost./universes/validate-place-join?originPlaceId=0&destinationPlaceId=1: WinHttpSendRequest failed, err=0x2EFD
+Error fetching MarketplaceService receipts
+Players.Baller.Backpack.Donate.Script:47: attempt to index field 'LocalPlayer' (a nil value)
+Stack Begin
+Script 'Players.Baller.Backpack.Donate.Script', Line 47
+Stack End
+Door Hit
+Door Hit
+Door Hit
+Door Hit
+Door Hit
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, Descripteur non valide
+
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+httpGet http://localhost./asset/?id=1077604 failed. Trying again. Error: HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10184119 failed. Trying again. Error: HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10224650 failed. Trying again. Error: HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10184368 failed. Trying again. Error: HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1077604 because HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.)
+Content failed for http://localhost./Asset/?id=10184119 because HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+Content failed for http://localhost./Asset/?id=10224650 because HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.)
+Content failed for http://localhost./Asset/?id=10184368 because HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+httpGet http://localhost./asset/?id=1280470 failed. Trying again. Error: HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1280470 because HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+httpGet http://localhost./Asset/?id=10224788 failed. Trying again. Error: HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10224788 because HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+httpGet http://localhost./Asset/?id=10242175 failed. Trying again. Error: HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1372261 failed. Trying again. Error: HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10242175 because HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=1372261 because HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+Content failed because HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+httpGet http://localhost./asset/?id=2303479 failed. Trying again. Error: HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=2303479 because HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+httpGet http://localhost./asset/?id=1372259 failed. Trying again. Error: HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=2027611 failed. Trying again. Error: HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1034065 failed. Trying again. Error: HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1372259 because HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+Content failed for http://localhost./asset/?id=2027611 because HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=1034065 because HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+Content failed because HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10181914 failed. Trying again. Error: HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.).
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+Content failed for http://localhost./Asset/?id=10181914 because HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+httpGet http://localhost./Asset/?id=10185059 failed. Trying again. Error: HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10185059 because HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+Players.Baller.Backpack.Donate.Script:47: attempt to index field 'LocalPlayer' (a nil value)
+Stack Begin
+Script 'Players.Baller.Backpack.Donate.Script', Line 47
+Stack End
+Players.Baller.Backpack.Donate.Script:47: attempt to index field 'LocalPlayer' (a nil value)
+Stack Begin
+Script 'Players.Baller.Backpack.Donate.Script', Line 47
+Stack End
+Door Hit
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, Descripteur non valide
+
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+httpGet http://localhost./asset/?id=1372261 failed. Trying again. Error: HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1280470 failed. Trying again. Error: HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10224650 failed. Trying again. Error: HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10242175 failed. Trying again. Error: HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1372261 because HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1372261 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=1280470 because HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1280470 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+Content failed for http://localhost./Asset/?id=10242175 because HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10242175 requires authorization or is restricted.)
+Content failed for http://localhost./Asset/?id=10224650 because HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10224650 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+httpGet http://localhost./Asset/?id=10185059 failed. Trying again. Error: HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1077604 failed. Trying again. Error: HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10184119 failed. Trying again. Error: HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.).
+httpGet http://localhost./Asset/?id=10224788 failed. Trying again. Error: HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10185059 because HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10185059 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+Content failed for http://localhost./asset/?id=1077604 because HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1077604 requires authorization or is restricted.)
+Content failed for http://localhost./Asset/?id=10224788 because HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10224788 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+Content failed for http://localhost./Asset/?id=10184119 because HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10184119 requires authorization or is restricted.)
+httpGet http://localhost./Asset/?id=10184368 failed. Trying again. Error: HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.).
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+httpGet http://localhost./asset/?id=1372259 failed. Trying again. Error: HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=2027611 failed. Trying again. Error: HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10184368 because HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10184368 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=1372259 because HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1372259 requires authorization or is restricted.)
+Content failed for http://localhost./asset/?id=2027611 because HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2027611 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+httpGet http://localhost./Asset/?id=10181914 failed. Trying again. Error: HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.).
+httpGet http://localhost./asset/?id=1034065 failed. Trying again. Error: HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.).
+Content failed for http://localhost./Asset/?id=10181914 because HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 10181914 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+httpGet http://localhost./asset/?id=2303479 failed. Trying again. Error: HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.).
+Content failed for http://localhost./asset/?id=1034065 because HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 1034065 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+Content failed for http://localhost./asset/?id=2303479 because HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.)
+Content failed because HTTP 403 (Roblox asset 2303479 requires authorization or is restricted.)
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, Descripteur non valide
+
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.a : http://www.roblox.com/asset/?id=2303479
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.b : http://www.roblox.com/asset/?id=2027611
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.c : http://www.roblox.com/asset/?id=1372259
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.d : http://www.roblox.com/asset/?id=1372261
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.e : http://www.roblox.com/asset/?id=1280470
+AngrySound1 is not a valid member of Part
+Stack Begin
+Script 'Players.Baller.Backpack.ProtestSign.ProtestScript', Line 5
+Stack End
+Touched is not a valid member of Backpack
+Stack Begin
+Script 'Players.Baller.Backpack.250 Speed run tool.PUT THIS IN THE WEAPON', Line 30
+Stack End
+Attempt to connect failed: Passed value is not a function
+Stack Begin
+Script 'Players.Baller.PlayerGui.Musicplayer.Stop.Stop', Line 60
+Stack End
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.two : http://www.roblox.com/Asset/?id=10184368
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.three : http://www.roblox.com/Asset/?id=10184119
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.six : http://www.roblox.com/Asset/?id=10242175
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.seven : http://www.roblox.com/Asset/?id=10224788
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.one : http://www.roblox.com/Asset/?id=10181914
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.four : http://www.roblox.com/Asset/?id=10185059
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.five : http://www.roblox.com/Asset/?id=10224650
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.eight : http://www.roblox.com/asset/?id=1077604
+OnContentProviderSoundLoaded Sound failed to load Players.Baller.PlayerGui.Musicplayer.nine : http://www.roblox.com/asset/?id=1034065
+OnContentProvideAccess key read: 
+Current Access key: 
+Service starting...
+Intializing Roblox Web Service
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, L’opération a réussi.
+
+Service Started on port 64989
+DataModel Loading rbxasset://local-map-1a414ee35f794d2aa90dbb7c34ccc43d.rbxlx
+Not reading binary data
+Not reading binary data
+Started network server 127.0.0.1|53640
+LinkedLeaderboard script version 5.00 loaded
+New connection from 127.0.0.1|65307
+
+ClassDescriptor failed to learn ReflectionMetadataClasses
+ClassDescriptor failed to learn ReflectionMetadataItem
+ClassDescriptor failed to learn ReflectionMetadataClass
+ClassDescriptor failed to learn ReflectionMetadataProperties
+ClassDescriptor failed to learn ReflectionMetadataFunctions
+ClassDescriptor failed to learn ReflectionMetadataYieldFunctions
+ClassDescriptor failed to learn ReflectionMetadataEvents
+ClassDescriptor failed to learn ReflectionMetadataCallbacks
+ClassDescriptor failed to learn ReflectionMetadataMember
+ClassDescriptor failed to learn ReflectionMetadataEnums
+ClassDescriptor failed to learn ReflectionMetadataEnum
+ClassDescriptor failed to learn ReflectionMetadataEnumItem
+ClassDescriptor failed to learn ReflectionMetadata
+ClassDescriptor failed to learn RenderSettings
+Type failed to learn AASamples
+Type failed to learn GraphicsMode
+Type failed to learn FramerateManagerMode
+Type failed to learn Antialiasing
+Type failed to learn QualityLevel
+Type failed to learn Resolution
+New connection from 127.0.0.1|54751
+
+Player 2 added
+ClassDescriptor failed to learn ReflectionMetadataClasses
+ClassDescriptor failed to learn ReflectionMetadataItem
+ClassDescriptor failed to learn ReflectionMetadataClass
+ClassDescriptor failed to learn ReflectionMetadataProperties
+ClassDescriptor failed to learn ReflectionMetadataFunctions
+ClassDescriptor failed to learn ReflectionMetadataYieldFunctions
+ClassDescriptor failed to learn ReflectionMetadataEvents
+ClassDescriptor failed to learn ReflectionMetadataCallbacks
+ClassDescriptor failed to learn ReflectionMetadataMember
+ClassDescriptor failed to learn ReflectionMetadataEnums
+ClassDescriptor failed to learn ReflectionMetadataEnum
+ClassDescriptor failed to learn ReflectionMetadataEnumItem
+ClassDescriptor failed to learn ReflectionMetadata
+ClassDescriptor failed to learn RenderSettings
+Type failed to learn AASamples
+Type failed to learn GraphicsMode
+Type failed to learn FramerateManagerMode
+Type failed to learn Antialiasing
+Type failed to learn QualityLevel
+Type failed to learn Resolution
+Player 1 added
+Exception in place validation: https://localhost./universes/validate-place-join?originPlaceId=0&destinationPlaceId=1: WinHttpSendRequest failed, err=0x2EFD
+Exception in place validation: https://localhost./universes/validate-place-join?originPlaceId=0&destinationPlaceId=1: WinHttpSendRequest failed, err=0x2EFD
+Error fetching MarketplaceService receipts
+Error fetching MarketplaceService receipts
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+httpGet  failed. Trying again. Error: : Trust check failed, L’opération a réussi.
+.
+httpGet  failed. Trying again. Error: : Trust check failed, Descripteur non valide
+.
+SecurityDataUpdater failed to fetch data from , : Trust check failed, Descripteur non valide
+
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool Selected
+Action Tool 

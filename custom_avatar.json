@@ -1,0 +1,16 @@
+{
+  "bundle": "blocky",
+  "hats": [
+    "89615321"
+  ],
+  "shirt": "144076358",
+  "pants": "129459077",
+  "colors": {
+    "Head": "#f8d5a3",
+    "Torso": "#f8d5a3",
+    "LeftArm": "#f8d5a3",
+    "RightArm": "#f8d5a3",
+    "LeftLeg": "#f8d5a3",
+    "RightLeg": "#f8d5a3"
+  }
+}
